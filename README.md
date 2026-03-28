@@ -7,7 +7,6 @@
 I am a dynamic **Front-End Web Developer Intern** currently working at **EduEngine Technologies Pvt. Ltd.**. I specialize in building responsive and user-friendly web applications using modern web technologies.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" width="150" align="left" />
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" align="right" />
 </p>
 <br><br><br><br>
