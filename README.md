@@ -40,11 +40,23 @@ Here are some of the key projects I've worked on during my internship and learni
 ### 📬 Connect with Me
 
 - 🌐 **Socials:**
+<div align="left">
+  <a href="https://lokeshsharma.me/" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-39FF14?style=for-the-badge&logo=googledrive&logoColor=black" alt="Portfolio"  />
+  </a>
 
-<p align="left">
-  <a href="mailto:lokeshsharma92006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lokesh-kumar-sharma-a129692ab/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
+  <a href="mailto:lokeshsharma92006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/lokesh-kumar-sharma-a129692ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br />
+
+<hr />
 
 - 📍 **Location:** Gokulpura, Sikar, Rajasthan 
 - 📞 **Phone:** +91-7976614077
